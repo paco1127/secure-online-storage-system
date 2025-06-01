@@ -1,0 +1,6 @@
+flask
+email-validator
+cryptography
+password_strength
+requests
+Flask-Limiter
