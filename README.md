@@ -19,7 +19,7 @@ A secure file storage and sharing system with user authentication, MFA via email
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/secure-online-storage-system.git
+git clone https://github.com/paco1127/secure-online-storage-system.git
 cd secure-online-storage-system/src
 ```
 
